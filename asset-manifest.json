@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Memes/static/css/main.a039a66b.css",
+    "main.js": "/Memes/static/js/main.cd2f3c8c.js",
+    "index.html": "/Memes/index.html",
+    "main.a039a66b.css.map": "/Memes/static/css/main.a039a66b.css.map",
+    "main.cd2f3c8c.js.map": "/Memes/static/js/main.cd2f3c8c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a039a66b.css",
+    "static/js/main.cd2f3c8c.js"
+  ]
+}
